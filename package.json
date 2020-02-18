@@ -1,0 +1,26 @@
+{
+  "name": "npm_grunt",
+  "version": "1.0.0",
+  "description": "grunt ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Valeria",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-sass": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm_grunt"
+  }
+}
